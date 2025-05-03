@@ -1,0 +1,10 @@
+streamlit
+streamlit-option-menu
+pdfplumber
+langchain
+langchain-community
+langchain-huggingface
+python-dotenv
+huggingface-hub
+sentence-transformers
+faiss-cpu
